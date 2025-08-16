@@ -1,0 +1,6 @@
+# Python dependencies for HPC Optimization Project
+# Simple demonstration of cache optimization techniques
+
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.5.0
